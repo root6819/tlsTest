@@ -20,17 +20,17 @@ win7默认不支持TLS1.2 协议，要解决这个问题需要打补丁或者做
 
 对于商业软件来说，为了使用你的产品而让用户更新Sp1补丁，费时费力，还可能影响用户体验。 国外有个chilkatsoft库可以解决这个问题，不过人家收费好贵！！！
 
-![image-20240719233540722](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240719233540722.png)
+![image-20240719233540722](https://www.qq7u.com/usr/uploads/softs/tlsTest/1.png)
 
 ## 二、 研究成果
 
 经过大量研究测试，发现用C# .net3.5 的话，非常难斛决，甚至调用了winHttp、xmlHttp等系统api也无解。最终只能通过写dll来实现。
 
-![image-20240719233757055](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240719233757055.png)
+![image-20240719233757055](https://www.qq7u.com/usr/uploads/softs/tlsTest/1.png)
 
 最终效果如图：
 
-![image-20240719234344568](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240719234344568.png)
+![image-202407](https://www.qq7u.com/usr/uploads/softs/tlsTest/1.png)
 
 测试环境：
 
