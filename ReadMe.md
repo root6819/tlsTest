@@ -26,11 +26,11 @@ win7默认不支持TLS1.2 协议，要解决这个问题需要打补丁或者做
 
 经过大量研究测试，发现用C# .net3.5 的话，非常难斛决，甚至调用了winHttp、xmlHttp等系统api也无解。最终只能通过写dll来实现。
 
-![image-20240719233757055](https://www.qq7u.com/usr/uploads/softs/tlsTest/1.png)
+![image-20240719233757055](https://www.qq7u.com/usr/uploads/softs/tlsTest/2.png)
 
 最终效果如图：
 
-![image-202407](https://www.qq7u.com/usr/uploads/softs/tlsTest/1.png)
+![image-202407](https://www.qq7u.com/usr/uploads/softs/tlsTest/3.png)
 
 测试环境：
 
