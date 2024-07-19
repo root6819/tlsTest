@@ -1,0 +1,9 @@
+E:\case\homework\tlsTestN\bin\Debug\tlsTestN.exe
+E:\case\homework\tlsTestN\bin\Debug\tlsTestN.pdb
+E:\case\homework\tlsTestN\bin\Debug\Newtonsoft.Json.dll
+E:\case\homework\tlsTestN\obj\Debug\tlsTestN.Form1.resources
+E:\case\homework\tlsTestN\obj\Debug\tlsTestN.Properties.Resources.resources
+E:\case\homework\tlsTestN\obj\Debug\tlsTestN.csproj.GenerateResource.Cache
+E:\case\homework\tlsTestN\obj\Debug\tlsTestN.exe
+E:\case\homework\tlsTestN\obj\Debug\tlsTestN.pdb
+E:\case\homework\tlsTestN\obj\Debug\tlsTestN.csprojResolveAssemblyReference.cache
